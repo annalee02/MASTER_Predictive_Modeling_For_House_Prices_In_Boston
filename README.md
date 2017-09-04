@@ -24,9 +24,9 @@ This is a perfect competition for data science students who have some experience
  You can see an example submission file (sample_submission.csv) in the Data folder.
 # Data
 ## File descriptions
-- `train.csv`: the training set
-- `test.csv`: the test set
-- `data_description.txt`: full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
+- `House_Price_Train.csv`: the training set
+- `House_Price_Test.csv`: the test set
+- `Data_description.pdf`: full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
 - `sample_submission.csv`: a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 - `A54011_LeeAnna_Big Data Predictive Analytics_Project.ipynb`: python codes for this analysis
 - `A54011_LeeAnna_Big Data Predictive Analytics_Project_Report.pdf`: a project report file
